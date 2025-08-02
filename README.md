@@ -141,7 +141,7 @@
 | 이름       | 역할                  | GitHub |
 |-----------|---------------------|----------------|
 | 이강민     | 모델 개발 / GUI 설계 | [GitHub](https://github.com/username) |
-| 박재현     | 실시간 추론 / 데이터셋 구축 | [GitHub](https://github.com/username) |
+| 박재현     | 모델 개발 / 백엔드 구축 | [GitHub](https://github.com/username) |
 
 ---
 
