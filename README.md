@@ -138,11 +138,10 @@
 
 ## :star: 팀원 소개
 
-| 이름       | 역할                  | GitHub/블로그 |
+| 이름       | 역할                  | GitHub |
 |-----------|---------------------|----------------|
-| 홍길동     | 프로젝트 기획 / GUI 설계 | [GitHub](https://github.com/username) |
-| 김수어     | 모델 학습 / 전처리       | [Blog](https://blog.example.com) |
-| 박인식     | 실시간 추론 / 데이터셋 구축 | [GitHub](https://github.com/username) |
+| 이강민     | 모델 개발 / GUI 설계 | [GitHub](https://github.com/username) |
+| 박재현     | 실시간 추론 / 데이터셋 구축 | [GitHub](https://github.com/username) |
 
 ---
 
