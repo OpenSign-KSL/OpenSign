@@ -104,9 +104,14 @@
 
 ---
 
-## :star: 사용 방법
+## :star: OpenSign 사용 방법
 
+여기에는 순서대로 실시간만 넣자
+---
 
+## :star: 모델 학습 코드
+
+여기에는 모델 학습 코드랑 방법 순서로 넣자
 ---
 
 ## :star: 사용한 오픈소스
@@ -114,7 +119,6 @@
 - [Mediapipe](https://github.com/google/mediapipe) – 손·얼굴 keypoint 추출
 - [PyTorch](https://pytorch.org/) – GRU + Attention 모델 학습
 - [OpenCV](https://opencv.org/) – 영상 처리 및 GUI 출력
-- [Matplotlib](https://matplotlib.org/) – 시각화
 
 ---
 
