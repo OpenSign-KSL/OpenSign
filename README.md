@@ -140,8 +140,8 @@
 
 | 이름       | 역할                  | GitHub |
 |-----------|---------------------|----------------|
-| 이강민     | 모델 개발 / GUI 설계 | [GitHub](https://github.com/username) |
-| 박재현     | 모델 개발 / 백엔드 구축 | [GitHub](https://github.com/username) |
+| 이강민     | 모델 개발 / GUI 설계 / 파이프라인 설계 | [GitHub](https://github.com/username) |
+| 박재현     | 모델 개발 / 백엔드 구축 / 파이프라인 설계 | [GitHub](https://github.com/username) |
 
 ---
 
