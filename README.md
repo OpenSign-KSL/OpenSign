@@ -67,7 +67,7 @@
 
 ### [3]-1 지화 인식 모델 설명
 - **MLP(Multi-layer Perceptron)**
-  - 42차원의 좌표를 기반으로 한 데이터들을 구분하기 위해서 MLP모델을 선택했습니다. 
+  - 42차원의 좌표를 기반으로 한 데이터들을 구분하기 위해서 TensorFlow.Keras 에서 제공하는 MLP모델을 선택했습니다. 
 
 ### [3]-2 수화 인식 모델 설명
 - **GRU (Gated Recurrent Unit)**  
