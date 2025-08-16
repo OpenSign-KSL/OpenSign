@@ -16,11 +16,11 @@
 #### **하단의 번호를 누르면 자동으로 해당 WIKI 페이지로 넘어갑니다**
 
 #### **목차**
-1. [프로젝트 구성](https://github.com/jhparktime/OpenSign/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%84%B1)
-2. [실시간 지화 예측 모델](https://github.com/jhparktime/OpenSign/wiki/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%A7%80%ED%99%94-%EC%98%88%EC%B8%A1-%EB%AA%A8%EB%8D%B8)
-3. [실시간 수화 예측 모델](https://github.com/jhparktime/OpenSign/wiki/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%88%98%ED%99%94-%EC%98%88%EC%B8%A1-%EB%AA%A8%EB%8D%B8)
-4. [OpenSign Web 사용방법](https://github.com/jhparktime/OpenSign/wiki/OpenSign-Web-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95)
-5. [시연 영상](https://github.com/jhparktime/OpenSign/wiki/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81)
+1. [프로젝트 구성](https://github.com/jhparktime/OpenSign/wiki/1.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%84%B1)
+2. [실시간 지화 예측 모델](https://github.com/jhparktime/OpenSign/wiki/2.-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%A7%80%ED%99%94-%EC%98%88%EC%B8%A1-%EB%AA%A8%EB%8D%B8)
+3. [실시간 수화 예측 모델](https://github.com/jhparktime/OpenSign/wiki/3.-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%88%98%ED%99%94-%EC%98%88%EC%B8%A1-%EB%AA%A8%EB%8D%B8)
+4. [OpenSign Web 사용방법](https://github.com/jhparktime/OpenSign/wiki/4.-OpenSign-Web-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95)
+5. [시연 영상](https://github.com/jhparktime/OpenSign/wiki/5.-%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81)
 6. 사용한 오픈소스 및 LLM
 7. 팀원 소개
 8. 라이선스
