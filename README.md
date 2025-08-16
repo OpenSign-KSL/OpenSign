@@ -21,8 +21,7 @@
 3. [실시간 수화 예측 모델](https://github.com/jhparktime/OpenSign/wiki/3.-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%88%98%ED%99%94-%EC%98%88%EC%B8%A1-%EB%AA%A8%EB%8D%B8)
 4. [OpenSign Web 사용방법](https://github.com/jhparktime/OpenSign/wiki/4.-OpenSign-Web-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95)
 5. [시연 영상](https://github.com/jhparktime/OpenSign/wiki/5.-%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81)
-6. 사용한 오픈소스 및 LLM
-7. 팀원 소개
-8. 라이선스
+6. 팀원 소개
+7. 라이선스
 
 ---
