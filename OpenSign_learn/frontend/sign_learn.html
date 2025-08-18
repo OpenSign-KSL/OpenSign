@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+  <title>수화 학습하기</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../shared/shared.css">
+  <link rel="stylesheet" href="sign_learn.css">
+</head>
+<body>
+  <div class="container learn-container">
+    <header class="page-header">
+      <button class="btn-back" onclick="goHome()">← 홈으로</button>
+      <h1 class="page-title">수화 학습하기</h1>
+    </header>
+
+    <!-- 카테고리 선택 -->
+    <div class="category-select">
+      <label for="signCategoryLearn">카테고리 선택:</label>
+      <select id="signCategoryLearn" onchange="onCategoryChange()">
+        <option value="가족">가족</option>
+        <option value="응급상황">응급상황</option>
+        <option value="시간">시간</option>
+      </select>
+    </div>
+
+    <!-- 메인 학습 영역 -->
+    <div class="learn-area">
+      <!-- 좌측: 전문가 영상 + 현재 단어 -->
+      <div class="expert-card">
+        <div class="word-header">
+          <span class="word-label">현재 단어</span>
+          <strong id="currentWord">단어를 불러오는 중...</strong>
+        </div>
+        <div class="video-wrap">
+          <video id="expertVideo" class="expert-video" controls playsinline></video>
+        </div>
+        <!-- 브라우저가 재생 못 할 때 대체 링크 -->
+        <div id="expertFallback" class="fallback hidden">
+          <div class="fallback-msg">브라우저에서 이 형식을 재생할 수 없어요.</div>
+          <a id="expertOpenLink" class="btn btn-secondary" target="_blank" rel="noopener">새 탭에서 열기</a>
+        </div>
+      </div>
+
+      <!-- 중앙: 웹캠 -->
+      <div class="webcam-card">
+        <div class="video-wrap">
+          <video id="learnVideo" autoplay muted playsinline></video>
+        </div>
+      </div>
+
+      <!-- 우측: 세로 내비게이션 (단어 리스트) -->
+      <aside class="nav-words" id="wordNav">
+        <!-- 단어 버튼들이 동적으로 들어옴 -->
+      </aside>
+    </div>
+
+    <!-- 진행 텍스트 (바 제거) -->
+    <p id="progress-text" class="progress-text">0 / 90 프레임 수집 대기중...</p>
+
+    <!-- 버튼 (중앙 배치) -->
+    <div class="action-buttons center">
+      <button class="btn btn-primary" onclick="startLearnCollection()">시작</button>
+    </div>
+  </div>
+
+  <!-- 결과/토스트 팝업 -->
+  <div id="popupResult"></div>
+
+  <script src="../shared/shared.js"></script>
+  <script src="sign_learn.js"></script>
+</body>
+</html>
